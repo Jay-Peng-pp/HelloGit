@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("Hello Git");
         System.out.println("update 1");
         System.out.println("分支1");
+        System.out.println("主线第9行代码");
     }
 }

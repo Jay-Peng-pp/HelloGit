@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("分支1");
         System.out.println("主线第9行代码");
         System.out.println("分支1第9行代码");
+System.out.println("在线更新");
     }
 }
